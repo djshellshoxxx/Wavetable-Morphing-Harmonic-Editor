@@ -2,6 +2,8 @@
 
 A browser-local wavetable design instrument with 64 amplitude/phase partials, periodic spline drawing, Three.js waterfall/surface visualization, and portable exports.
 
+**[Open Morph Lab](https://djshellshoxxx.github.io/Wavetable-Morphing-Harmonic-Editor/)** · **[CDL home](https://djshellshoxxx.github.io/circuitdriftlabs/)**
+
 ## Run locally
 
 Requires Node.js 22 and npm. The header compilation test additionally requires `g++` (available on GitHub's Ubuntu runner).
