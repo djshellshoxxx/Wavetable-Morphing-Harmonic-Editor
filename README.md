@@ -1,5 +1,7 @@
 # Morph Lab — Wavetable Morphing & Harmonic Editor
 
+> **Status: specification only.** The default branch currently contains only this README. The source files (`src/`, `package.json`, tests, workflow) and the `docs/` files referenced below are **not present in this repository** and no other branches or pull requests hold them. Everything below describes the intended design; the commands and links have not been verified and the UI cannot be run or screenshotted yet. See [TODO.md](TODO.md).
+
 A browser-local wavetable design instrument with 64 amplitude/phase partials, periodic spline drawing, Three.js waterfall/surface visualization, and portable exports.
 
 ## Run locally
